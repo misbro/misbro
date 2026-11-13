@@ -12,7 +12,7 @@
   <p align="center">
     <a href="#-about-me"><img src="https://img.shields.io/badge/Passion-Technology_Lover-10b981?style=for-the-badge&logo=codefactor&logoColor=white" alt="Technology Lover" /></a>
     <a href="#-my-experimentation-philosophy"><img src="https://img.shields.io/badge/Mindset-Relentless_Experimenter-059669?style=for-the-badge&logo=codewars&logoColor=white" alt="Experimenter" /></a>
-    <a href="#-tools--technologies-i-explore"><img src="https://img.shields.io/badge/Style-Hands--On_Tinkering-34d399?style=for-the-badge&logo=target&logoColor=black" alt="Hands-On Tinkering" /></a>
+    <img src="https://komarev.com/ghpvc/?username=misbro&style=for-the-badge&color=10b981" alt="Profile Views" />
   </p>
 
 </div>
@@ -49,13 +49,15 @@ I am a **technology lover and curious experimenter**. Rather than following conv
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misbro&show_icons=true&bg_color=05130e&title_color=10b981&text_color=e2e8f0&icon_color=34d399&border_color=10b981&include_all_commits=true&count_private=true" alt="misbro GitHub Stats" height="175" />
-  <img src="https://streak-stats.demolab.com?user=misbro&theme=dark&background=05130e&border=10b981&stroke=10b981&ring=34d399&fire=10b981&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=10b981&sideLabels=10b981" alt="misbro GitHub Streak" height="175" />
+  <img src="https://streak-stats.demolab.com?user=misbro&theme=dark&background=05130e&border=10b981&stroke=10b981&ring=34d399&fire=10b981&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=10b981&sideLabels=10b981" alt="misbro GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=misbro&bg_color=05130e&color=10b981&line=34d399&point=10b981&area=true&hide_border=false&border_color=10b981" width="100%" alt="Activity Graph" />
-</p>
+<br />
+
+<div align="center">
+  <p><strong>Contribution Calendar (Emerald Theme)</strong></p>
+  <img src="https://ghchart.rshah.org/10b981/misbro" alt="misbro's Contribution Chart" width="100%" />
+</div>
 
 ---
 
